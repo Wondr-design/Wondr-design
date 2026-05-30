@@ -14,14 +14,14 @@
 
 I build software across AI, SaaS, infrastructure, and full-stack product engineering. My work includes LLM systems, model training and fine-tuning workflows, AI-powered applications, web platforms, backend services, automation, and deployment infrastructure.
 
-I am currently going deeper into systems programming and embedded engineering, with a focus on how software interacts with hardware: computer architecture, firmware concepts, memory-mapped I/O, registers, peripherals, low-level languages, and the interface between code, operating systems, chips, and physical devices.
+I am currently going deeper into systems programming and embedded engineering, with a focus on how software interacts with hardware: computer architecture, firmware concepts, memory-mapped I/O (MMIO), registers, peripherals, low-level languages, and the interface between code, operating systems, chips, and physical devices.
 
 ## Core Focus
 
 - **AI & LLM Engineering:** building, training, fine-tuning, evaluating, and deploying LLM-powered systems, AI agents, and production model workflows.
 - **Full-Stack SaaS Development:** designing and shipping web applications, APIs, backend services, dashboards, and product workflows.
 - **DevOps & Infrastructure:** working with deployments, automation, CI/CD, environments, and production-oriented engineering practices.
-- **Systems & Embedded Learning:** studying low-level software, firmware concepts, bare-metal programming, MMIO, device registers, peripherals, and performance-aware programming.
+- **Systems & Embedded Learning:** working with low-level software, firmware concepts, bare-metal programming, MMIO, device registers, peripherals, and performance-aware programming.
 
 ## Languages, Runtimes & Tools I Use
 
@@ -29,26 +29,29 @@ I am currently going deeper into systems programming and embedded engineering, w
 
 ## Currently Learning
 
-![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=xs&theme=stone) ![Rust](https://www.shieldcn.dev/badge/-Rust-000000.svg?logo=rust&variant=branded&size=xs&theme=stone) ![Assembly](https://www.shieldcn.dev/badge/-Assembly-525252.svg?variant=branded&size=xs&theme=stone)
+![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=xs&theme=stone) ![Rust](https://www.shieldcn.dev/badge/-Rust-000000.svg?logo=rust&variant=branded&size=xs&theme=stone) ![x86/x86-64](https://www.shieldcn.dev/badge/-x86%2Fx86--64-525252.svg?variant=branded&size=xs&theme=stone) ![ARM Cortex-M](https://www.shieldcn.dev/badge/-ARM_Cortex--M-0091BD.svg?logo=arm&variant=branded&size=xs&theme=stone) ![RISC-V](https://www.shieldcn.dev/badge/-RISC--V-283272.svg?logo=riscv&variant=branded&size=xs&theme=stone) ![ARM/AArch64](https://www.shieldcn.dev/badge/-ARM%2FAArch64-0091BD.svg?logo=arm&variant=branded&size=xs&theme=stone)
 
 ## Learning Progress
 
-Approximate self-assessment for languages I am actively studying.
+Approximate self-assessment for languages and assembly targets I am actively studying. I am currently strongest with x86/x86-64 compared to the other assembly targets.
 
-| Language | Progress |
+| Language / Architecture | Progress |
 | --- | --- |
 | C++ | ![35%](https://geps.dev/progress/35) |
 | Rust | ![30%](https://geps.dev/progress/30) |
-| Assembly | ![20%](https://geps.dev/progress/20) |
+| x86 / x86-64 Assembly | ![40%](https://geps.dev/progress/40) |
+| ARM / AArch64 Assembly | ![20%](https://geps.dev/progress/20) |
+| ARM Cortex-M Assembly | ![15%](https://geps.dev/progress/15) |
+| RISC-V Assembly | ![15%](https://geps.dev/progress/15) |
 
 ## Areas I'm Exploring
 
 - Embedded systems and firmware engineering
 - Bare-metal programming and driver-level software
 - Computer architecture and low-level systems
-- Memory-mapped I/O, hardware registers, and peripheral control
+- Memory-mapped I/O (MMIO), hardware registers, and peripheral control
 - Operating system internals and hardware abstraction
-- Systems programming with C while learning C++, Rust, and Assembly
+- Systems programming with C while learning C++, Rust, x86/x86-64 assembly, ARM Cortex-M, RISC-V, and ARM/AArch64
 - Building reliable AI products from model layer to production infrastructure
 
 ## Engineering Interests
