@@ -4,9 +4,9 @@
 
 **AI Engineer • Full-Stack Developer • SaaS Builder • DevOps & Infrastructure • Systems Programming**
 
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40wondr--design-181717.svg?logo=github&variant=branded&size=xs&theme=stone)](https://github.com/Wondr-design) [![Website](https://www.shieldcn.dev/badge/Website-wclabs.org-181717.svg?logo=ri%3ALuLink&variant=branded&size=xs&theme=stone)](https://wclabs.org)
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40wondr--wclabs-181717.svg?logo=github&variant=branded&size=xs&theme=stone)](https://github.com/wondr-wclabs) [![Website](https://www.shieldcn.dev/badge/Website-wclabs.org-181717.svg?logo=ri%3ALuLink&variant=branded&size=xs&theme=stone)](https://wclabs.org)
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/wondr-design.svg?variant=secondary&size=xs&theme=stone)](https://github.com/Wondr-design?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/wondr-design.svg?variant=secondary&size=xs&theme=stone)](https://github.com/Wondr-design?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-84-2563eb.svg?logo=github&variant=secondary&size=xs&theme=stone)](https://github.com/Wondr-design?tab=repositories) ![Company](https://www.shieldcn.dev/badge/Company-OFFBS_%7C_13Eleven-1f2937.svg?logo=building&variant=ghost&size=xs&theme=stone)
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/wondr-wclabs.svg?variant=secondary&size=xs&theme=stone)](https://github.com/wondr-wclabs?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/wondr-wclabs.svg?variant=secondary&size=xs&theme=stone)](https://github.com/wondr-wclabs?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-84-2563eb.svg?logo=github&variant=secondary&size=xs&theme=stone)](https://github.com/wondr-wclabs?tab=repositories) ![Company](https://www.shieldcn.dev/badge/Company-OFFBS_%7C_13Eleven-1f2937.svg?logo=building&variant=ghost&size=xs&theme=stone)
 
 </div>
 
