@@ -23,9 +23,23 @@ I am currently going deeper into systems programming and embedded engineering, w
 - **DevOps & Infrastructure:** working with deployments, automation, CI/CD, environments, and production-oriented engineering practices.
 - **Systems & Embedded Learning:** studying low-level software, firmware concepts, bare-metal programming, MMIO, device registers, peripherals, and performance-aware programming.
 
-## Languages I Use & Study
+## Languages, Runtimes & Tools I Use
 
-![C](https://www.shieldcn.dev/badge/-C-A8B9CC.svg?logo=c&variant=branded&size=xs&theme=stone) ![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=xs&theme=stone) ![Rust](https://www.shieldcn.dev/badge/-Rust-000000.svg?logo=rust&variant=branded&size=xs&theme=stone) ![Go](https://www.shieldcn.dev/badge/-Go-00ADD8.svg?logo=go&variant=branded&size=xs&theme=stone) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=xs&theme=stone) ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=xs&theme=stone) ![V](https://www.shieldcn.dev/badge/-V-5D87BF.svg?logo=v&variant=branded&size=xs&theme=stone) ![Elixir](https://www.shieldcn.dev/badge/-Elixir-4B275F.svg?logo=elixir&variant=branded&size=xs&theme=stone) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=xs&theme=stone) ![Assembly](https://www.shieldcn.dev/badge/-Assembly-525252.svg?variant=branded&size=xs&theme=stone)
+![C](https://www.shieldcn.dev/badge/-C-A8B9CC.svg?logo=c&variant=branded&size=xs&theme=stone) ![Go](https://www.shieldcn.dev/badge/-Go-00ADD8.svg?logo=go&variant=branded&size=xs&theme=stone) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=xs&theme=stone) ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=xs&theme=stone) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=xs&theme=stone) ![Bun](https://www.shieldcn.dev/badge/-Bun-000000.svg?logo=bun&variant=branded&size=xs&theme=stone) ![Node.js](https://www.shieldcn.dev/badge/-Node.js-5FA04E.svg?logo=nodedotjs&variant=branded&size=xs&theme=stone) ![Bash](https://www.shieldcn.dev/badge/-Bash-4EAA25.svg?logo=gnubash&variant=branded&size=xs&theme=stone) ![Lua](https://www.shieldcn.dev/badge/-Lua-2C2D72.svg?logo=lua&variant=branded&size=xs&theme=stone) ![SQL](https://www.shieldcn.dev/badge/-SQL-336791.svg?logo=postgresql&variant=branded&size=xs&theme=stone)
+
+## Currently Learning
+
+![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=xs&theme=stone) ![Rust](https://www.shieldcn.dev/badge/-Rust-000000.svg?logo=rust&variant=branded&size=xs&theme=stone) ![Assembly](https://www.shieldcn.dev/badge/-Assembly-525252.svg?variant=branded&size=xs&theme=stone)
+
+## Learning Progress
+
+Approximate self-assessment for languages I am actively studying.
+
+| Language | Progress |
+| --- | --- |
+| C++ | ![35%](https://geps.dev/progress/35) |
+| Rust | ![30%](https://geps.dev/progress/30) |
+| Assembly | ![20%](https://geps.dev/progress/20) |
 
 ## Areas I'm Exploring
 
@@ -34,7 +48,7 @@ I am currently going deeper into systems programming and embedded engineering, w
 - Computer architecture and low-level systems
 - Memory-mapped I/O, hardware registers, and peripheral control
 - Operating system internals and hardware abstraction
-- Systems programming with C, C++, Rust, Go, and Assembly
+- Systems programming with C while learning C++, Rust, and Assembly
 - Building reliable AI products from model layer to production infrastructure
 
 ## Engineering Interests
