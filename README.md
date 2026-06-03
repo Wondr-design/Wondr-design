@@ -29,7 +29,7 @@ I am currently going deeper into systems programming and embedded engineering, w
 
 ## Currently Learning
 
-![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=xs&theme=stone) ![Rust](https://www.shieldcn.dev/badge/-Rust-000000.svg?logo=rust&variant=branded&size=xs&theme=stone) ![Fortran](https://www.shieldcn.dev/badge/-Fortran-734F96.svg?logo=fortran&variant=branded&size=xs&theme=stone) ![x86/x86-64](https://www.shieldcn.dev/badge/-x86%2Fx86--64-525252.svg?variant=branded&size=xs&theme=stone) ![ARM Cortex-M](https://www.shieldcn.dev/badge/-ARM_Cortex--M-0091BD.svg?logo=arm&variant=branded&size=xs&theme=stone) ![RISC-V](https://www.shieldcn.dev/badge/-RISC--V-283272.svg?logo=riscv&variant=branded&size=xs&theme=stone) ![ARM/AArch64](https://www.shieldcn.dev/badge/-ARM%2FAArch64-0091BD.svg?logo=arm&variant=branded&size=xs&theme=stone)
+![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=xs&theme=stone) ![Rust](https://www.shieldcn.dev/badge/-Rust-000000.svg?logo=rust&variant=branded&size=xs&theme=stone) ![V](https://www.shieldcn.dev/badge/-V-5D87BF.svg?logo=vlang&variant=branded&size=xs&theme=stone) ![Fortran](https://www.shieldcn.dev/badge/-Fortran-734F96.svg?logo=fortran&variant=branded&size=xs&theme=stone) ![x86/x86-64](https://www.shieldcn.dev/badge/-x86%2Fx86--64-525252.svg?variant=branded&size=xs&theme=stone) ![ARM Cortex-M](https://www.shieldcn.dev/badge/-ARM_Cortex--M-0091BD.svg?logo=arm&variant=branded&size=xs&theme=stone) ![RISC-V](https://www.shieldcn.dev/badge/-RISC--V-283272.svg?logo=riscv&variant=branded&size=xs&theme=stone) ![ARM/AArch64](https://www.shieldcn.dev/badge/-ARM%2FAArch64-0091BD.svg?logo=arm&variant=branded&size=xs&theme=stone)
 
 ## Learning Progress
 
@@ -39,6 +39,7 @@ Approximate self-assessment for languages and assembly targets I am actively stu
 | --- | --- |
 | C++ | ![35%](https://geps.dev/progress/35) |
 | Rust | ![30%](https://geps.dev/progress/30) |
+| V | ![5%](https://geps.dev/progress/5) |
 | Fortran | ![5%](https://geps.dev/progress/5) |
 | x86 / x86-64 Assembly | ![40%](https://geps.dev/progress/40) |
 | ARM / AArch64 Assembly | ![20%](https://geps.dev/progress/20) |
@@ -52,7 +53,7 @@ Approximate self-assessment for languages and assembly targets I am actively stu
 - Computer architecture and low-level systems
 - Memory-mapped I/O (MMIO), hardware registers, and peripheral control
 - Operating system internals and hardware abstraction
-- Systems programming with C while learning C++, Rust, x86/x86-64 assembly, ARM Cortex-M, RISC-V, and ARM/AArch64
+- Systems programming with C while learning C++, Rust, V, Fortran, x86/x86-64 assembly, ARM Cortex-M, RISC-V, and ARM/AArch64
 - Building reliable AI products from model layer to production infrastructure
 
 ## Engineering Interests
